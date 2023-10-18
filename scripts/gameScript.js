@@ -3,40 +3,100 @@ $(function() {
 
 const games = [
   {
-    title: "007",
-    link: "James Bond", 
-    author: "Games Bond"
+    title: "Spiderman Game",
+    link: "https://sladeberryman.github.io/charlie-376/", 
+    author: "Slade Berryman"
   },
   {
-    title: "Name Game",
-    link: "https://zanemoon13.github.io/lab-echo/index.html", 
-    author: "Zane Mooney"
+    title: "Skyrim Game",
+    link: "https://armac7.github.io/Delta-Lab/", 
+    author: "William McDonald"
   },
   {
-    title: "Macey's Game",
-    link: "https://maceyraejones.github.io/cautious-couscous/",
-    author: "Macey Jones"
+    title: "Daggerfall Game ",
+    link: "https://v-sec0.github.io/delta-daggerfall-lab/",
+    author: "Levon Watkins"
     },
     {
-  title: "EchoGame",
-  link: "https://brandoncoplen.github.io/EchoLab1/",
-  author: "Brandon Coplen"
+  title: "Pig Latin Game",
+  link: "https://beth-ann-tucker.github.io/silver-octo-meme-delta-lab/",
+  author: "Elizabeth Tucker"
   },
 {
-  title: "NameGame",
-  link: "https://nkerstiens.github.io/Echo-Lab-376/",
-  author: "Noah Kerstiens"
+  title: "Sunglasses Doge Game",
+  link: "https://johnnycaringi.github.io/Charlie-Caringi/",
+  author: "Johnny Caringi"
   },
   {
-    title: "game4happiness",
-    link: "https://vanpham2000.github.io/game4happiness/",
-    author: "Van Pham"
+    title: "Spirit Animal",
+    link: "https://rastifer.github.io/animated-octo-dollop-delta-jrast/",
+    author: "Jacob Rast"
     },
     {
-      title: "namePage",
-      link: "https://2fortdev.github.io/Echo-lab/",
-      author: "Sam Aaron"
-      }
+      title: "Cool Name Facts",
+      link: "https://cnorwood10.github.io/special-bassoon-delta-376/",
+      author: "Colby Norwood"
+      },
+  {
+      title: "Fun Name Facts",
+      link: "https://jparker13.github.io/silver-computing-machine-DELTA/",
+      author: "Janna Parker"
+      },
+  {
+      title: "Doge on the Moon",
+      link: "https://kaitlinrenfroe.github.io/renfroe-charlie-lab/",
+      author: "Kaitlin Renfroe"
+      },
+  {
+      title: "Coolest Name Facts",
+      link: "https://ellarohling.github.io/legendary-winner-delta/",
+      author: "Ella Rohling"
+      },
+  {
+      title: "Will Smith Smack Game",
+      link: "https://bjacks01.github.io/Brando-Charlie-Lab/",
+      author: "Brandon Jacks"
+      },
+  {
+      title: "Doge Game",
+      link: "https://lucashasting.github.io/Doge-Game/",
+      author: "Lucas Hasting"
+      },
+  {
+      title: "Dragging Doge Game",
+      link: "https://rachelhoneycutt.github.io/ubiquitous-octo-sniffle-charlie/",
+      author: "Seungyeon Chang"
+      },
+  {
+      title: "Fun Name Facts",
+      link: "https://rachelhoneycutt.github.io/curly-computing-machine-DELTA/",
+      author: "Rachel Honeycutt"
+      },
+  {
+      title: "Cool Name Game",
+      link: "https://panhead63.github.io/friendly-octo-guide-delta/",
+      author: "Rachel Thompson"
+      },
+  {
+      title: "Binary Name Game",
+      link: "https://raidengreene.github.io/namefactsdeltafall2023/",
+      author: "Raiden Greene"
+      },
+  {
+      title: "Doge Gym Bro Game",
+      link: "https://daltrodg.github.io/special-guide-charlie/",
+      author: "Dalton Rodgers"
+      },
+  {
+      title: "Name Facts Game",
+      link: "https://loganbeckman21.github.io/urban-invention-delta/",
+      author: "Logan Beckman"
+      },
+  {
+      title: "Flying Pigs Game",
+      link: "https://tyrepickett.github.io/Charlie-flying-pigs/",
+      author: "Tyre Pickett"
+      },
 ];
 // iterate over the JSON array
 $.each(games, function (index, item) {
